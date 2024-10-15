@@ -1,10 +1,9 @@
 <p align="center"> js/ts/py --- pianista frustrado.</p>
 
 # dumb reason
-for years i have been posting some stuff private or not on github in an alt account. in those years i met a lot of people and made a lot of friends which i dont regret meeting and sadly, i contributed to create stuff i regret. in order not to delete all my work. i prefer to use my personal account and start over, with realistic and somehow profitable projects, not destructive ones but creative and perhaps interesting ones. this account was created to mainly save this cool username but now im using it for real.
+old account just to save this username
 
 - ```ig``` <a href="https://instagram.com/myuncompletedstory" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-- Discord: ```bleed out#0880```
 
 <!--
 ```
